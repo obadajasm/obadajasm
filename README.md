@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Mobile Application Developer who works with dart and flutter and in love with js 
+- Frontend Developer who works with dart and flutter and in love with js 
 - more?
  <a href="https://obadajasem.github.io" target="_blank" >Portfolio</a>
 
